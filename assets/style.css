@@ -1,0 +1,11 @@
+.img-logo {
+    position: relative;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-logo img {
+    width: 100%;
+    height: 100%;
+}
